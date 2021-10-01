@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font-weight: bold !important;
+  padding: 25px !important;
+}
+.listCocktail {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-radius: 20px;
+  margin: 15px;
+}
